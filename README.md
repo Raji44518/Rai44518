@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olawale, an <a href="https://www.linkedin.com/in/olawale-raji-8bb36523a/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Olawale Raji, an <a href="https://www.linkedin.com/in/olawale-raji-8bb36523a/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
